@@ -1,0 +1,85 @@
+# ============================================
+# SENSITIVE FILES - NEVER COMMIT THESE!
+# ============================================
+
+# Credentials
+credentials.py
+*_credentials.py
+config/credentials.py
+
+# JWT Tokens
+data/
+data/jwt_tokens/
+*.json
+!pubspec.json
+!analysis_options.json
+!package.json
+
+# API Keys (backup protection)
+*api_key*
+*secret*
+*token*
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================================
+# Logs
+# ============================================
+logs/
+*.log
+*.log.*
+
+# ============================================
+# Flutter/Dart
+# ============================================
+legends_funds_app/.dart_tool/
+legends_funds_app/.flutter-plugins
+legends_funds_app/.flutter-plugins-dependencies
+legends_funds_app/.packages
+legends_funds_app/build/
+legends_funds_app/.flutter-plugins-dependencies
+legends_funds_app/pubspec.lock
+
+# ============================================
+# IDE
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# ============================================
+# OS
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Temporary Files
+# ============================================
+*.tmp
+*.bak
+*.backup
+*~
+
+# ============================================
+# Test Files
+# ============================================
+test_*.py
+*_test.py
