@@ -1,4 +1,4 @@
-# 🚀 Legends Funds - AI-Powered Trading App
+#  Legends Funds - AI-Powered Trading App
 
 <div align="center">
 
@@ -247,8 +247,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👥 Authors
 
-- **Your Name** - [GitHub](https://github.com/YOUR_USERNAME)
-
+- **Lakshya Verma** - [GitHub](https://github.com/lakshyaverma2414)
+- ** Prapti Devi Patel** -[GitHub](https://github.com/praptipatel0123-droid)
 ---
 
 ## 🙏 Acknowledgments
@@ -262,10 +262,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/legends_funds/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/YOUR_USERNAME/legends_funds/discussions)
-
+- 📧 Email: lakshya.verma2410@gmail.com
+ 
 ---
 
 ## 🎯 Roadmap
